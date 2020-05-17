@@ -1,0 +1,18 @@
+        html {
+        box-sizing: border-box;
+    }
+
+    *,
+    *::before,
+    *:active {
+        *,
+        *::before,
+        *:active {
+            box-sizing: inherit;
+        }
+        body {
+            background-color: #2C2141;
+        }
+        .card {
+            background-color: #F8F8F8;
+        }

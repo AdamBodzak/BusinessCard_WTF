@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+::before, :active{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: #2C2141;
+}

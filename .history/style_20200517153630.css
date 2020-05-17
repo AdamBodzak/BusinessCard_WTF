@@ -10,13 +10,8 @@ html {
 
 body {
     background-color: #2C2141;
-    display: flex;
-    height: 100vh;
 }
 
-.card {
+.main {
     background-color: #F8F8F8;
-    border-radius: 16px;
-    width: 624px;
-
 }
