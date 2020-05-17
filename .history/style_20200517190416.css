@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:active {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #2C2141;
+    display: flex;
+    height: 100vh;
+}
+
+.card {
+    background-color: #F8F8F8;
+    border-radius: 16px;
+    width: 624px;
+    padding: 32px;
+}

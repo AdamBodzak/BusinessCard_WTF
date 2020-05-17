@@ -31,23 +31,14 @@ body {
 .name {
     font-size: 36px;
     margin: 0px;
-    font-weight: normal;
+
 }
 .net {
     margin-top: 16px;
 }
 .profession {
     font-size: 18px;
-    font-style: italic;
 }
 .description {
     margin-top: 24px;
-}
-.distinction {
-    color: #ED6D05;
-    font-weight: normal;
-}
-.person__link {
-    color: #E20613;
-    text-decoration: none;
 }

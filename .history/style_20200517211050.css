@@ -2,7 +2,6 @@
 *::before,
 *:active {
     box-sizing: border-box;
-    margin: 0px;
 }
 
 body {
@@ -14,40 +13,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.avatar {
-    margin-right: 32px;
-}
 
 .card {
     background-color: #F8F8F8;
     border-radius: 16px;
     width: 624px;
     padding: 32px;
-
     display: flex;
     align-items: flex-start;
-}
-
-.name {
-    font-size: 36px;
-    margin: 0px;
-    font-weight: normal;
-}
-.net {
-    margin-top: 16px;
-}
-.profession {
-    font-size: 18px;
-    font-style: italic;
-}
-.description {
-    margin-top: 24px;
-}
-.distinction {
-    color: #ED6D05;
-    font-weight: normal;
-}
-.person__link {
-    color: #E20613;
-    text-decoration: none;
 }
